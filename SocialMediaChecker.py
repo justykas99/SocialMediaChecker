@@ -3,7 +3,7 @@ import requests
 class ChecK():
 
     def __init__(self):
-        self.email = str(input("Enter Email: "))
+        self.email = str(input("Enter Email:antoniva.v@gmail.com "))
         self.twitter()
 
     def PrintT(self):
